@@ -1,4 +1,3 @@
-# Amazon-Sales-Performance-Analysis
 # Amazon Sales Performance Analysis
 
 ## Project Overview
