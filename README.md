@@ -67,6 +67,7 @@ This Power BI project analyzes 100,000 Amazon E-Commerce transactions to evaluat
 ## Dashboard Preview
 
 (Add dashboard screenshot here)
+![Dashboard Preview](Amazon_Sales_Dashboard.png)
 
 ---
 
